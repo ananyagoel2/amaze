@@ -1,0 +1,1 @@
+generates a maze using breadth first random path and uses dijsktra algorithm to find the shortest path
